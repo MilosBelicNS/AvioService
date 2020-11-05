@@ -1,0 +1,12 @@
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.exe.config
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.exe
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.pdb
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.exe
+C:\Users\Milos\source\repos\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.pdb
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.exe.config
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.exe
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\bin\Debug\Termin8AvionskiSaobracajVezba.pdb
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.exe
+D:\Software development\C Sharp Practice\Termin8AvionskiSaobracajVezba\Termin8AvionskiSaobracajVezba\obj\Debug\Termin8AvionskiSaobracajVezba.pdb
